@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heisenberg-2106
+- 👋 Hi, I’m PalashHemade-2106
 - 👀 I’m a aspiring web developer based in Pune, India. I have particular interest in Gen AI and ML and full stack development.
 - 🌱 I have learnt full stack web development in React, NodeJS, Typescript, etc. and DSA in c++.
 - 💞️ I’m looking to collaborate on different AI and ML projects and web development projects.
